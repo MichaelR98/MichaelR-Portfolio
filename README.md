@@ -21,3 +21,5 @@ A look into the projects that I have completed as a data analyst
 * Provide a simple header that shows basic live info such as Total Revenue and ADR (average daily rate).
 * Give the audience multiple different types of visualizations that explore different parts of the same data.
 * Find out if more guests are bringing their own vehicles, creating a need for more parking spaces.
+
+![alt text](https://github.com/MichaelR98/MichaelR-Portfolio/tree/main/images)
