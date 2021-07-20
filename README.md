@@ -12,7 +12,7 @@ A look into the projects that I have completed as a data analyst
 
 
 
-# Hotel Dashboard Project
+# Project 2 : [Hotel Dashboard](https://github.com/MichaelR98/Hotel-Project)
 * Using a database on hotels that I found I wanted to look into PowerBi and see if it was more intuitive for me that Tableau
 
 ## Goals of the Dashboard
