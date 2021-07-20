@@ -22,5 +22,5 @@ A look into the projects that I have completed as a data analyst
 * Give the audience multiple different types of visualizations that explore different parts of the same data.
 * Find out if more guests are bringing their own vehicles, creating a need for more parking spaces.
 
-![alt text](images/image_2021-07-20_120801.png)
+![](images/image_2021-07-20_120801.png)
 
