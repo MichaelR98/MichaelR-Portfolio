@@ -1,7 +1,7 @@
 # MichaelR-Portfolio 
 A look into the projects that I have completed as a data analyst
 
-# Project 1 : COVID-19 Exploration Project
+# Project 1 : [COVID-19 Exploration Project] (https://github.com/MichaelR98/Covid-Portfolio-Project)
 ## Using data found at [OurWorldInData.com](https://ourworldindata.org/covid-deaths)
 ### The Purpose of my SQL Queries
 * Use a JOIN to explore global data.
