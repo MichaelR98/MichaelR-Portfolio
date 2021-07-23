@@ -10,7 +10,7 @@ A look into the projects that I have completed as a data analyst
 * In order to create this new column a CTE or Temp Tabled is needed.
 * Finally I created a view in order to store the table for later visualizations.
 
-![](image_2021-07-23_152620.png)
+![](images/image_2021-07-23_152620.png)
 
 
 # Project 2 : [Hotel Dashboard](https://github.com/MichaelR98/Hotel-Project)
