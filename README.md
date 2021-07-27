@@ -37,7 +37,7 @@ A look into the projects that I have completed as a data analyst
 * Have fun
 
 # The matrix I created in R 
-![](images/nfl matrix.png)
+![](images/nfl%20matrix.png)
 
 
 
