@@ -41,3 +41,14 @@ A look into the projects that I have completed as a data analyst
 
 
 
+# WIP Project 4 : [Bike-Service-Exploration](https://github.com/MichaelR98/Bike-Service-Exploration) 
+## Dataset provided by the Google Data Analytics Program
+### Project Goals
+* Breakdown the current customer base for a bike sharing company by gender, usertype and age
+* Using the fields provided try to figure out why the most common users use the service.
+* Create a dashboard that shows: summary stats, a bar graph that displays the distributions.
+* Add a line chart that shows the times at which people choose the service to see if the presumptions are true.
+
+
+
+
