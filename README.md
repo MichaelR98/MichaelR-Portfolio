@@ -2,7 +2,7 @@
 A look into the projects that I have completed as a data analyst
 
 # Project 1 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
-## Goals SQL Queries
+## Goals of SQL Queries
 * Used CONVERT to standardize the date format.
 * Used the JOIN and IS NULL functions to populate property address data that is NULL.
 * Using SUBSTRING and break out Address into Individual Columns (Address, City, State) in order to make the data more usable for analysis.
