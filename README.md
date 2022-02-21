@@ -9,7 +9,7 @@ A look into the projects that I have completed as a data analyst
 * Use IF/AND/OR to categorize armor into various groups.
 * Divide data into seperate tables based on class type. 
 
-![](Images/D2%20armor%20photo.PNG)
+![](main/Images/D2%20armor%20photo.PNG)
 
 # Project 2 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
 ## Goals of SQL Queries
