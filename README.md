@@ -1,7 +1,7 @@
 # MichaelR-Portfolio 
 A look into the projects that I have completed as a data analyst
 
-# Project 1 : [Destiny Armor Organizer](https://github.com/MichaelR98/NashvilleDataCleaning) 
+# Project 1 : [Destiny Armor Organizer](https://github.com/MichaelR98/Destiny2-Armor) 
 ## Goals Spreadsheet
 * Create a way to sift through hundreds of armor pieces to save time.
 * Use a SUM function to add togther similar stats to create a new matric to evaluate armor 
