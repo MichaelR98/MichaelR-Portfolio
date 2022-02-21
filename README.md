@@ -11,7 +11,7 @@ A look into the projects that I have completed as a data analyst
 
 ![](D2 armor photo.PNG)
 
-# Project 1 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
+# Project 2 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
 ## Goals of SQL Queries
 * Used CONVERT to standardize the date format.
 * Used the JOIN and IS NULL functions to populate property address data that is NULL.
@@ -22,7 +22,7 @@ A look into the projects that I have completed as a data analyst
 
 
 
-# Project 2 : [Hotel Dashboard](https://github.com/MichaelR98/Hotel-Project)
+# Project 3 : [Hotel Dashboard](https://github.com/MichaelR98/Hotel-Project)
 * Used a database on hotels that I found I wanted to look into PowerBi and see if it was more intuitive for me that Tableau
 
 ## Goals of the Dashboard
@@ -35,7 +35,7 @@ A look into the projects that I have completed as a data analyst
 ![](images/image_2021-07-20_120801.png)
 
 
-# Project 3 : [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
+# Project 4 : [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
 * Used R to create a correlation matrix to be used in a PowerPoint
 
 ## Goals of the PowerPoint
