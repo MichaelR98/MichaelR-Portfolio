@@ -39,25 +39,7 @@ A look into the projects that I have completed as a data analyst
 ![](images/nfl%20matrix.png)
 
 
-# WIP Project 4 : [COVID-19 Exploration Project](https://github.com/MichaelR98/Covid-Portfolio-Project) 
-## Using data found at [OurWorldInData.com](https://ourworldindata.org/covid-deaths)
-### The Purpose of my SQL Queries
-* Use a JOIN to combine the two large tables to explore global data on vaccinations and deaths.
-* Explore the infection rate, total cases and total deaths grouped by countries or continents.
-* Create a new column called RollingPeopleVaccinated that is an increasing sum that represents the total number of people vaccinated up to that day.
-* In order to create this new column a CTE or Temp Table is needed.
-* Finally I created a view in order to store the table for later visualizations.
 
-![](images/image_2021-07-23_152620.png)
-
-
-# WIP Project 5 : [Bike-Service-Exploration](https://github.com/MichaelR98/Bike-Service-Exploration) 
-## Dataset provided by the Google Data Analytics Program
-### Project Goals
-* Breakdown the current customer base for a bike sharing company by gender, usertype and age
-* Using the fields provided try to figure out why the most common users use the service.
-* Create a dashboard that shows: summary stats, a bar graph that displays the distributions.
-* Add a line chart that shows the times at which people choose the service to see if the presumptions are true.
 
 
 
