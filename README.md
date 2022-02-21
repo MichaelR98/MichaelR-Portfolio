@@ -1,6 +1,15 @@
 # MichaelR-Portfolio 
 A look into the projects that I have completed as a data analyst
 
+# Project 1 : [Destiny Armor Organizer](https://github.com/MichaelR98/NashvilleDataCleaning) 
+## Goals Spreadsheet
+* Create a way to sift through hundreds of armor pieces to save time.
+* Use a SUM function to add togther similar stats to create a new matric to evaluate armor 
+* Use Conditional Formatting to quickly assess the quality of armor in multiple categories.
+* Use IF/AND/OR to categorize armor into various groups.
+* Divide data into seperate tables based on class type. 
+
+
 # Project 1 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
 ## Goals of SQL Queries
 * Used CONVERT to standardize the date format.
