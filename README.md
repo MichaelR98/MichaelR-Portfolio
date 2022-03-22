@@ -45,7 +45,7 @@ A look into the projects that I have completed as a data analyst
 * Look for interesting patterns
 
 # The matrix I created in R 
-![](images/nfl%20matrix.png)
+![](images/nfl%20matrix.PNG)
 
 
 
