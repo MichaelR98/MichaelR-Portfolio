@@ -17,7 +17,7 @@ A look into the projects that I have completed as a data analyst
 * Use the JOIN and IS NULL functions to populate property address data that is NULL.
 * Use SUBSTRING and break out Address into Individual Columns (Address, City, State) in order to make the data more usable for analysis.
 * Use a CASE statement Clean the Sold As Vacant field by converting Y and N rows with YES and NO. 
-* Use ROW NUMBER, PARTITION BY AND A CTE I remove duplicate rows.
+* Use ROW NUMBER, PARTITION BY AND A CTE to remove duplicate rows.
 * Finally I deleted unused columns that would not be useful during analysis.
 
 
