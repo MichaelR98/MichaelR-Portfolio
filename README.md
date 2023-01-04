@@ -2,7 +2,7 @@
 A look into the projects that I have completed as a data analyst
 
 # Project 1 : [Destiny Armor Organizer](https://github.com/MichaelR98/Destiny2-Armor) 
-## Goals Spreadsheet
+## Goals of Spreadsheet
 * Create a way to sift through hundreds of armor pieces to save time.
 * Use a SUM function to add togther similar stats to create a new matric to evaluate armor 
 * Use Conditional Formatting to quickly assess the quality of armor in multiple categories.
@@ -33,6 +33,19 @@ A look into the projects that I have completed as a data analyst
 * Find out if more guests are bringing their own vehicles, creating a need for more parking spaces.
 
 ![](images/image_2021-07-20_120801.png)
+
+
+# Project 4 : [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
+* Used R to create a correlation matrix to be used in a PowerPoint
+
+## Goals of the PowerPoint
+* Using 2020 stats I wanted to know which of the stats I choose has the highest corr with winning
+* Create a ranked list
+* Attempt to explain the results
+* Look for interesting patterns
+
+# The matrix I created in R 
+![](images/nfl%20matrix.PNG)
 
 
 # Project 4 : [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
