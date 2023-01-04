@@ -35,20 +35,21 @@ A look into the projects that I have completed as a data analyst
 ![](images/image_2021-07-20_120801.png)
 
 
-# Project 4 : [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
-* Used R to create a correlation matrix to be used in a PowerPoint
+# Project 4 : [Python - Movie Dataset Correlation](https://github.com/MichaelR98/Python-Regression-Project)
+* Used Python to clean and analyze a dataset about movies. I was looking for which factors had the highest correlation with gross revenue.
 
-## Goals of the PowerPoint
-* Using 2020 stats I wanted to know which of the stats I choose has the highest corr with winning
-* Create a ranked list
-* Attempt to explain the results
-* Look for interesting patterns
-
-# The matrix I created in R 
+# The matrix I created in Python and the code I used to make it.
 ![](images/nfl%20matrix.PNG)
 
+#Creating a corr matrix of all numeric data to create a heat map
+corr_matrix = df.corr(method ='pearson',numeric_only=True)
+#Creating a heat map based on the matrix to display the correlations
+sns.heatmap(corr_matrix, annot=True)
+plt.title('Correlation Matrix of Movie Dataset')
+plt.show
 
-# Project 4 : [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
+
+# Project 5 (An older project I am currently updating using Python): [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
 * Used R to create a correlation matrix to be used in a PowerPoint
 
 ## Goals of the PowerPoint
