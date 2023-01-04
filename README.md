@@ -39,7 +39,7 @@ A look into the projects that I have completed as a data analyst
 * Used Python to clean and analyze a dataset about movies. I was looking for which factors had the highest correlation with gross revenue.
 
 # The matrix I created in Python and the code I used to make it.
-![](images/python%movie%matrix.PNG)
+![](images/python%20movie%20matrix.PNG)
 
 corr_matrix = df.corr(method ='pearson',numeric_only=True)    
 sns.heatmap(corr_matrix, annot=True)  
