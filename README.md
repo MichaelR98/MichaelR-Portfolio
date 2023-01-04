@@ -41,9 +41,9 @@ A look into the projects that I have completed as a data analyst
 # The matrix I created in Python and the code I used to make it.
 ![](images/nfl%20matrix.PNG)
 
-#Creating a corr matrix of all numeric data to create a heat map  
+        #Creating a corr matrix of all numeric data to create a heat map  
 corr_matrix = df.corr(method ='pearson',numeric_only=True)  
-#Creating a heat map based on the matrix to display the correlations  
+        #Creating a heat map based on the matrix to display the correlations  
 sns.heatmap(corr_matrix, annot=True)  
 plt.title('Correlation Matrix of Movie Dataset')  
 plt.show  
