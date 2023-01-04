@@ -1,5 +1,6 @@
 # MichaelR-Portfolio 
 A look into the projects that I have completed as a data analyst
+Titles have embeded hyperlinks to the projects
 
 # Project 1 : [Destiny Armor Organizer](https://github.com/MichaelR98/Destiny2-Armor) 
 ## Goals of Spreadsheet
