@@ -28,6 +28,7 @@ Titles have embeded hyperlinks to the projects
 
 
 # Project 3 : [Python - Loan Data Project](https://github.com/MichaelR98/CRM-Python-Preprocessing-Project/blob/main/loan-data-preprocessed.csv)
+# A capstone project from a Udemy Course using a sample dataset
 * Used Python to preprocess a dataset about loans so that other could use the new csv file for analysis
 * Used Numpy to clean data, fill missing values and convert strings into bools that could be used for analysis 
 * Converted currencies and created new numeric categories to make analysis easier
