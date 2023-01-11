@@ -2,17 +2,8 @@
 A look into the projects that I have completed as a data analyst
 Titles have embeded hyperlinks to the projects
 
-# Project 1 : [Destiny Armor Organizer](https://github.com/MichaelR98/Destiny2-Armor) 
-## Goals of Spreadsheet
-* Create a way to sift through hundreds of armor pieces to save time.
-* Use a SUM function to add togther similar stats to create a new matric to evaluate armor 
-* Use Conditional Formatting to quickly assess the quality of armor in multiple categories.
-* Use IF/AND/OR to categorize armor into various groups.
-* Divide data into seperate tables based on class type. 
 
-![](images/armorexample.PNG)
-
-# Project 2 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
+# Project 1 : [Nashville Data Cleaning](https://github.com/MichaelR98/NashvilleDataCleaning) 
 ## Goals of SQL Queries
 * Use CONVERT to standardize the date format.
 * Use the JOIN and IS NULL functions to populate property address data that is NULL.
@@ -23,7 +14,7 @@ Titles have embeded hyperlinks to the projects
 
 
 
-# Project 3 : [Hotel Dashboard](https://github.com/MichaelR98/Hotel-Project)
+# Project 2 : [Hotel Dashboard](https://github.com/MichaelR98/Hotel-Project)
 * Used a database on hotels to make a dashboard for PowerBi practice
 
 ## Goals of the Dashboard
@@ -34,6 +25,11 @@ Titles have embeded hyperlinks to the projects
 * Find out if more guests are bringing their own vehicles, creating a need for more parking spaces.
 
 ![](images/image_2021-07-20_120801.png)
+
+
+# Project 3 : [Python - Loan Data Project](https://github.com/MichaelR98/CRM-Python-Preprocessing-Project/blob/main/loan-data-preprocessed.csv)
+* Used Python to preprocess a dataset about loans so that other could use the new csv file for analysis
+* Used Numpy to clean data, fill missing values and convert strings into bools that could be used for analysis 
 
 
 # Project 4 : [Python - Movie Dataset Correlation](https://github.com/MichaelR98/Python-Regression-Project)
