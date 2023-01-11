@@ -47,8 +47,17 @@ sns.heatmap(corr_matrix, annot=True)
 plt.title('Correlation Matrix of Movie Dataset')  
 plt.show  
 
+# Project 5 : [Destiny Armor Organizer](https://github.com/MichaelR98/Destiny2-Armor) 
+## Goals of Spreadsheet
+* Create a way to sift through hundreds of armor pieces to save time.
+* Use a SUM function to add togther similar stats to create a new matric to evaluate armor 
+* Use Conditional Formatting to quickly assess the quality of armor in multiple categories.
+* Use IF/AND/OR to categorize armor into various groups.
+* Divide data into seperate tables based on class type. 
 
-# Project 5 (An older project I am currently updating using Python): [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
+![](images/armorexample.PNG)
+
+# Project 6 (An older project I am currently updating using Python): [What Wins in the NFL?](https://github.com/MichaelR98/NFL-Powerpoint)
 * Used R to create a correlation matrix to be used in a PowerPoint
 
 ## Goals of the PowerPoint
