@@ -11,6 +11,7 @@ Titles have embeded hyperlinks to the projects
 
 * Here's a small sample of the spreadsheet with secondary data that I found through many sources.
 * A lot of the columns have been hidden to make it a bit more visually appealing.
+* Sidenote: The FWI value is a measurement of the weather quality, a lower value means that conditions are less hostile
 ![](images/NFL%20HFA%20Data.PNG)
 
 
