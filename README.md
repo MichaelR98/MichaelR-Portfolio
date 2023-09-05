@@ -4,11 +4,13 @@ Titles have embeded hyperlinks to the projects
 
 # Current Project : [How Home Field Effects Winning in the NFL](https://github.com/MichaelR98/Home-Field-Advantage) 
 ## Goals of Analysis
-* Find what makes home field advatage effect winning in the NFL
-* Look at a few of the conditions that create a home field advatage and see how much each one effects winning
-* See if these effects are more salient amoung teams that win more games
+* Find what makes home field advatage effect winning in the NFL.
+* Look at a few of the conditions that create a home field advatage and see how much each one effects winning.
+* See if these effects are more salient amoung teams that win more games.
 * My initial thought is that the better teams have more passionate fans who are more likely to create a strong home field advantage.
 
+* Here's a small sample of the spreadsheet with secondary data that I found through many sources.
+* A lot of the columns have been hidden to make it a bit more visually appealing.
 ![](images/NFL%20HFA%20Data.PNG)
 
 
