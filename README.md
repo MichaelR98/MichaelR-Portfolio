@@ -1,6 +1,5 @@
 # MichaelR-Portfolio 
-A look into the projects that I have completed as a data analyst
-Titles have embeded hyperlinks to the projects
+A look into the projects that I have completed as a data analyst, the titles have embeded hyperlinks to the projects
 
 # Current Project : [How Home Field Effects Winning in the NFL](https://github.com/MichaelR98/Home-Field-Advantage) 
 ## Goals of Analysis
