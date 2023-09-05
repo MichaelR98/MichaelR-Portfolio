@@ -9,6 +9,8 @@ Titles have embeded hyperlinks to the projects
 * See if these effects are more salient amoung teams that win more games
 * My initial thought is that the better teams have more passionate fans who are more likely to create a strong home field advantage.
 
+![](images/image_2021-07-20_120801.png)
+
 
 
 
